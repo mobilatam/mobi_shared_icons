@@ -13,4 +13,6 @@ class MobiSvgIcons {
 
   static const compassOutline = MobiIconData('assets/svg/compass-outline.svg');
   static const compass = MobiIconData('assets/svg/compass.svg');
+  static const mobiLogoWhite = MobiIconData('assets/svg/mobi_logo_white.svg');
+  static const mobiLogoColored = MobiIconData('assets/svg/mobi_logo_colored.svg');
 }
