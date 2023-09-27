@@ -22,4 +22,5 @@ class MobiSvgIcons {
   static const surroundBox = MobiIconData('assets/svg/surround_box_purple.svg');
   static const purpleRider = MobiIconData('assets/svg/purple_rider.svg');
   static const coloredCheckCircle = MobiIconData('assets/svg/colored_check_circle.svg');
+  static const mobiArrowLeftIcon = MobiIconData('assets/svg/arrow_left_icon.svg');
 }
