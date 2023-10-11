@@ -41,4 +41,5 @@ class MobiSvgIcons {
   static const yummyLogo = MobiIconData('assets/svg/yummy_logo.svg');
   static const iconPencil = MobiIconData('assets/svg/icon_pencil.svg');
   static const iconDate = MobiIconData('assets/svg/icon_date.svg');
+  static const mobiMoped = MobiIconData('assets/svg/mobi_moped.svg');
 }
