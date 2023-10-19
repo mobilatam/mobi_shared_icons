@@ -41,5 +41,20 @@ class MobiSvgIcons {
   static const yummyLogo = MobiIconData('assets/svg/yummy_logo.svg');
   static const iconPencil = MobiIconData('assets/svg/icon_pencil.svg');
   static const iconDate = MobiIconData('assets/svg/icon_date.svg');
+  static const flashlightIcon = MobiIconData('assets/svg/flashlight_icon.svg');
+  static const keyboardIcon = MobiIconData('assets/svg/keyboard_icon.svg');
+  static const giftIconColor = MobiIconData('assets/svg/gift_icon.svg');
+  static const giftIconWhite = MobiIconData('assets/svg/gift_icon_withe.svg');
+  static const rightArrow = MobiIconData('assets/svg/right_arrow_icon.svg');
+  static const talkIcon = MobiIconData('assets/svg/talk_icon.svg');
+  static const sendMessage = MobiIconData('assets/svg/send_email_icon.svg');
+  static const listIcon = MobiIconData('assets/svg/list_icon.svg');
+  static const whatsAppMessenger =
+      MobiIconData('assets/svg/whatsapp_messenger_icon.svg');
+  static const instagramIcon = MobiIconData('assets/svg/instagram_icon.svg');
+  static const facebookRoundedIcon =
+      MobiIconData('assets/svg/facebook_rounded_icon.svg');
+  static const logoutIcon = MobiIconData('assets/svg/logout_icon.svg');
+  static const checkIcon = MobiIconData('assets/svg/check_icon.svg');
   static const mobiMoped = MobiIconData('assets/svg/mobi_moped.svg');
 }
