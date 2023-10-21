@@ -57,4 +57,14 @@ class MobiSvgIcons {
   static const logoutIcon = MobiIconData('assets/svg/logout_icon.svg');
   static const checkIcon = MobiIconData('assets/svg/check_icon.svg');
   static const mobiMoped = MobiIconData('assets/svg/mobi_moped.svg');
+  static const spannerIcon = MobiIconData('assets/svg/spanner_icon.svg');
+  static const mediaIcon = MobiIconData('assets/svg/media_icon.svg');
+  static const padlockIcon = MobiIconData('assets/svg/padlock_icon.svg');
+  static const cardIcon = MobiIconData('assets/svg/card_icon.svg');
+  static const chargerIcon = MobiIconData('assets/svg/charger_icon.svg');
+  static const batteryCheckIcon =
+      MobiIconData('assets/svg/check_battery_icon.svg');
+  static const locationIcon = MobiIconData('assets/svg/location_icon.svg');
+  static const batteryIcon = MobiIconData('assets/svg/battery_icon.svg');
+  static const batteryLowIcon = MobiIconData('assets/svg/battery_low_icon.svg');
 }
