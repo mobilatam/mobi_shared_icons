@@ -50,10 +50,12 @@ class MobiSvgIcons {
   static const sendMessage = MobiIconData('assets/svg/send_email_icon.svg');
   static const listIcon = MobiIconData('assets/svg/list_icon.svg');
   static const whatsAppMessenger =
-      MobiIconData('assets/svg/whatsapp_messenger_icon.svg');
-  static const instagramIcon = MobiIconData('assets/svg/instagram_icon.svg');
+      MobiIconData('assets/svg/whastapp_rounded_icon.svg');
+  static const instagramIcon =
+      MobiIconData('/assets/svg/intragram_rounded_icon.svg');
   static const facebookRoundedIcon =
       MobiIconData('assets/svg/facebook_rounded_icon.svg');
+  static const moreIcon = MobiIconData('assets/svg/more_icon.svg');
   static const logoutIcon = MobiIconData('assets/svg/logout_icon.svg');
   static const checkIcon = MobiIconData('assets/svg/check_icon.svg');
   static const mobiMoped = MobiIconData('assets/svg/mobi_moped.svg');
