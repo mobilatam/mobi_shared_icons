@@ -8,8 +8,8 @@ class MobiPngData {
   final String package;
 }
 
-class MobiPngIcons {
-  MobiPngIcons._();
+class MobiPngAssets {
+  MobiPngAssets._();
 
   static const sheetsAccess = MobiPngData('assets/png/sheets_access.png');
   static const waze = MobiPngData('assets/png/waze.png');
