@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:mobi_shared_icons/mobi_shared_icons.dart';
 
-class MobiPngIcon extends StatelessWidget {
-  const MobiPngIcon(
+class MobiPngAsset extends StatelessWidget {
+  const MobiPngAsset(
     this.icon, {
     this.width,
     this.height,
