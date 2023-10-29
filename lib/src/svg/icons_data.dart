@@ -49,7 +49,7 @@ class MobiSvgIcons {
   static const talkIcon = MobiIconData('assets/svg/talk_icon.svg');
   static const sendMessage = MobiIconData('assets/svg/send_email_icon.svg');
   static const listIcon = MobiIconData('assets/svg/list_icon.svg');
-  static const whatsAppMessenger =
+  static const whatsAppIcon =
       MobiIconData('assets/svg/whastapp_rounded_icon.svg');
   static const instagramIcon =
       MobiIconData('/assets/svg/intragram_rounded_icon.svg');
