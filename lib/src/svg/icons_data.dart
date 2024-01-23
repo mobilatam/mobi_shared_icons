@@ -69,4 +69,10 @@ class MobiSvgIcons {
   static const locationIcon = MobiIconData('assets/svg/location_icon.svg');
   static const batteryIcon = MobiIconData('assets/svg/battery_icon.svg');
   static const batteryLowIcon = MobiIconData('assets/svg/battery_low_icon.svg');
+  static const padlockLockIcon =
+      MobiIconData('assets/svg/padlock_lock_icon.svg');
+  static const headLightOnIcon =
+      MobiIconData('assets/svg/headlights_on_icon.svg');
+  static const headLightOffIcon =
+      MobiIconData('assets/svg/headlights_off_icon.svg');
 }
