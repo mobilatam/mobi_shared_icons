@@ -21,4 +21,5 @@ class MobiPngAssets {
   static const mobiImage = MobiPngData('assets/png/mobi_image.png');
   static const scooterImage = MobiPngData('assets/png/scooter_image.png');
   static const mobiQrImage = MobiPngData('assets/png/mobi_qr_image.png');
+  static const scooterQRImage = MobiPngData('assets/png/mobi_qr_scooter.png');
 }
