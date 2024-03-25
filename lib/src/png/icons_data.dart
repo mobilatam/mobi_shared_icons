@@ -20,6 +20,9 @@ class MobiPngAssets {
   static const yummyLogo = MobiPngData('assets/png/yummy_logo.png');
   static const mobiImage = MobiPngData('assets/png/mobi_image.png');
   static const scooterImage = MobiPngData('assets/png/scooter_image.png');
+  static const moped = MobiPngData('assets/png/moped.png');
+  static const mopedUrban = MobiPngData('assets/png/moped_urban.png');
+  static const mopedJob = MobiPngData('assets/png/moped_job.png');
   static const mobiQrImage = MobiPngData('assets/png/mobi_qr_image.png');
   static const scooterQRImage = MobiPngData('assets/png/mobi_qr_scooter.png');
 }

@@ -6,12 +6,14 @@ class MobiPngAsset extends StatelessWidget {
     this.icon, {
     this.width,
     this.height,
+    this.url,
     this.fit,
     this.alignment = Alignment.center,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   final MobiPngData icon;
+  final String? url;
   final double? width;
   final double? height;
   final BoxFit? fit;
@@ -20,7 +22,7 @@ class MobiPngAsset extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Image.asset(
-      icon.assetPath,
+      url ??icon.assetPath,
       width: width,
       height: height,
       fit: fit ?? BoxFit.contain,

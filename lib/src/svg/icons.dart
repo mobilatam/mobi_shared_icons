@@ -8,6 +8,7 @@ class MobiSvgIcon extends StatelessWidget {
     this.width,
     this.height,
     this.color,
+    this.url,
     this.fit,
     this.alignment = Alignment.center,
     this.colorBlendMode,
@@ -15,6 +16,7 @@ class MobiSvgIcon extends StatelessWidget {
   }) : super(key: key);
 
   final MobiIconData icon;
+  final String? url;
   final double? width;
   final double? height;
   final BoxFit? fit;
@@ -25,7 +27,7 @@ class MobiSvgIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SvgPicture.asset(
-      icon.assetPath,
+      url ?? icon.assetPath,
       width: width,
       height: height,
       colorFilter: color != null
