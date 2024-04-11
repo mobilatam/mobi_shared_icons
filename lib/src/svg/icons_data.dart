@@ -75,4 +75,19 @@ class MobiSvgIcons {
       MobiIconData('assets/svg/headlights_on_icon.svg');
   static const headLightOffIcon =
       MobiIconData('assets/svg/headlights_off_icon.svg');
+  static const profileIconMoped = MobiIconData('assets/svg/moped.svg');
+  static const profileIconMRR = MobiIconData('assets/svg/MRR.svg');
+  static const profileIconCo2 = MobiIconData('assets/svg/CO2.svg');
+  static const profileIconHelmet =
+      MobiIconData('assets/svg/profile-icon-helmet.svg');
+  static const profileIconMenuReferred =
+      MobiIconData('assets/svg/profile-icon-cogigo-referido.svg');
+  static const profileIconMenuMarketplace =
+      MobiIconData('assets/svg/profile-icon-marketplace.svg');
+  static const profileIconMenuInvoice =
+      MobiIconData('assets/svg/profile-icon-facturation-menu-mobi-icon.svg');
+  static const profileIconMenuJob =
+      MobiIconData('assets/svg/profile-icon-job.svg');
+  static const profileIconMenuMoped =
+      MobiIconData('assets/svg/profile-icon-moped.svg');
 }

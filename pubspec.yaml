@@ -1,7 +1,6 @@
 name: mobi_shared_icons
 description: A new Flutter project.
 version: 0.0.1
-homepage:
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
