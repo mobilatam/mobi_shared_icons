@@ -90,4 +90,6 @@ class MobiSvgIcons {
       MobiIconData('assets/svg/profile-icon-job.svg');
   static const profileIconMenuMoped =
       MobiIconData('assets/svg/profile-icon-moped.svg');
+        static const checkIconGreen =
+      MobiIconData('assets/svg/check.svg');
 }
