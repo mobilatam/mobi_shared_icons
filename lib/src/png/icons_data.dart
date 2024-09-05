@@ -12,6 +12,7 @@ class MobiPngAssets {
   MobiPngAssets._();
 
   static const sheetsAccess = MobiPngData('assets/png/sheets_access.png');
+  static const successPayment = MobiPngData('assets/png/success.png');
   static const waze = MobiPngData('assets/png/waze.png');
   static const dhlLogo = MobiPngData('assets/png/dhl_logo.png');
   static const elGenioLogo = MobiPngData('assets/png/elgenio_logo.png');
